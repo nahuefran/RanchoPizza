@@ -1,21 +1,17 @@
-.logo{
-    width: 200px;
+header .logo{
+    width: 140px;
     display: flex;
+    justify-content: flex-start;
     background-color: black;
 }
 
-.refers{
-    background-color: black;
+.pizzas p{
     color: white;
-    padding: 20px 0;
-    border: 1px solid white;
-    text-decoration: none;
-    font-size: 15px;
-    display:flex;
-    justify-content: space-around;
-    width: 100%;
-    list-style: none;
 }
+.nav{
+    margin: 10px;
+}
+
 .section1{
     padding-top: 80px;
     padding-left: 220px;
@@ -51,24 +47,19 @@
     padding-right: 50px;
 }
 
-.insta{
-    width: 60px;
-    background-color: black;
-    display: flex;
-    padding-left: 44px;
+.logo{
+    width: 100px;
 }
-.wsp{
-    width: 150px;
-    background-color: black;
-    display: flex;
-    
+
+.referencias{
+    color: white;
 }
 
 .maps{
     width: 500px;
     padding-left: 477px;
     padding-top: 3px;
-    display: flex;;
+    display: flex;
 }
 .datos{
     font-size: 20px;
@@ -117,34 +108,27 @@
 /*Fin seccion empanadas*/
 
 /*Seccion pizzas*/
-.pizzas{
-    display: flex;
-    gap: 100px;
-    padding-left: 76‒;
-    padding-left: 100px;
-    padding-top: 60px;
-    padding-bottom: 60px;
-}
+
 .pizza1{
-    width: 200px;
+    width:  80px;
 }
 .pizza2{
-    width: 200px;
+    width:  80px;
 }
 .pizza3{
-    width: 200px;
+    width: 80px;
 }
 .pizza4{
-    width: 200px;
+    width:  80px;
 }
 /*Fin seccion pizzas*/
 
 /*Postres*/
 .cafe{
-    width: 400px;
+    width: 600px;
 }
 .flan{
-    width: 400px;
+    width: 600px;
 }
 .postres1{
     display: flex;
@@ -158,11 +142,11 @@
     padding-bottom: 50px;
 }
 .panqueques{
-    width: 400px;
+    width: 600px;
     
 }
 .bombon{
-    width: 400px;
+    width: 600px;
 }
 /*Fin Postres*/
 
@@ -212,3 +196,5 @@
     bottom:0;
     right: 0;
 }
+
+
