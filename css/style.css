@@ -1,0 +1,8 @@
+header .logo {
+  width: 140px;
+  display: flex;
+  justify-content: flex-start;
+  background-color: black; }
+
+header nav .piz1 .referencias ul li a {
+  color: white !important; }
