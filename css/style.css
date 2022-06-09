@@ -3,3 +3,165 @@ header .logo {
   display: flex;
   justify-content: flex-start;
   background-color: black; }
+
+.pizzas p {
+  color: white; }
+
+.nav {
+  margin: 10px; }
+
+.section1 {
+  padding-top: 80px;
+  padding-left: 220px;
+  padding-bottom: 80px;
+  padding-right: 220px; }
+
+.img1 {
+  width: 100%;
+  display: flex;
+  gap: 100px;
+  flex-wrap: column; }
+
+.imgm1 {
+  background-color: blue;
+  transition-property: all; }
+
+.img2 {
+  width: 100%;
+  display: flex;
+  gap: 100px;
+  padding-top: 100px;
+  padding-bottom: 20px; }
+
+.videos {
+  width: 100%;
+  display: flex;
+  gap: 100px;
+  padding-bottom: 100px;
+  padding-left: 50px;
+  padding-right: 50px; }
+
+.logo {
+  width: 100px; }
+
+.referencias {
+  color: white; }
+
+.maps {
+  width: 500px;
+  padding-left: 477px;
+  padding-top: 3px;
+  display: flex; }
+
+.datos {
+  font-size: 20px;
+  font-style: italic;
+  color: white; }
+
+.salontxt {
+  font-size: 20px;
+  font-style: italic; }
+
+.postrestxt {
+  font-size: 20px;
+  font-style: italic; }
+
+.gustos {
+  font-size: 20px;
+  font-style: italic; }
+
+.empanadastxt {
+  font-size: 20px;
+  font-style: italic; }
+
+.head {
+  background-color: black; }
+
+.food {
+  background-color: black; }
+
+.emp1 {
+  width: 400px; }
+
+.emp2 {
+  width: 483px; }
+
+.empanaimg {
+  padding-left: 170px;
+  padding-right: 0px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  gap: 100px; }
+
+.pizza1 {
+  width: 80px; }
+
+.pizza2 {
+  width: 80px; }
+
+.pizza3 {
+  width: 80px; }
+
+.pizza4 {
+  width: 80px; }
+
+.cafe {
+  width: 600px; }
+
+.flan {
+  width: 600px; }
+
+.postres1 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+  padding-bottom: 30px; }
+
+.postres2 {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 50px; }
+
+.panqueques {
+  width: 600px; }
+
+.bombon {
+  width: 600px; }
+
+.frente {
+  width: 400px; }
+
+.vinos {
+  width: 400px;
+  height: 600px; }
+
+.salon1 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 50px;
+  padding-bottom: 50px; }
+
+.horno {
+  width: 400px;
+  height: 600px; }
+
+.espinillo {
+  width: 400px;
+  height: 600px; }
+
+.salon2 {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 50px; }
+
+.body {
+  background-color: green; }
+
+.wspfixed {
+  width: 130px; }
+
+.item-fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0; }
